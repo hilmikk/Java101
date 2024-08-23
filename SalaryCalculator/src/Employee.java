@@ -34,7 +34,8 @@ public class Employee {
 
         if (yearsWorked < 10) {
             return this.salary * 0.05;
-        } else if (yearsWorked >= 10 && yearsWorked < 20) {
+        }
+        else if (yearsWorked >= 10 && yearsWorked < 20) {
             return this.salary * 0.10;
         } else if (yearsWorked >= 20) {
             return this.salary * 0.15;
