@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BOnTheScreen/BOnTheScreen.iml" filepath="$PROJECT_DIR$/BOnTheScreen/BOnTheScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BoxingGame/BoxingGame.iml" filepath="$PROJECT_DIR$/BoxingGame/BoxingGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java101.iml" filepath="$PROJECT_DIR$/.idea/Java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListAverage/ListAverage.iml" filepath="$PROJECT_DIR$/ListAverage/ListAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListMaxMin/ListMaxMin.iml" filepath="$PROJECT_DIR$/ListMaxMin/ListMaxMin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListNumberSorter/ListNumberSorter.iml" filepath="$PROJECT_DIR$/ListNumberSorter/ListNumberSorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListRepeatCounter/ListRepeatCounter.iml" filepath="$PROJECT_DIR$/ListRepeatCounter/ListRepeatCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListRepeatingEvenNumbers/ListRepeatingEvenNumbers.iml" filepath="$PROJECT_DIR$/ListRepeatingEvenNumbers/ListRepeatingEvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathoGuessr/MathoGuessr.iml" filepath="$PROJECT_DIR$/MathoGuessr/MathoGuessr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatrixTranspose/MatrixTranspose.iml" filepath="$PROJECT_DIR$/MatrixTranspose/MatrixTranspose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" filepath="$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentSystem/StudentSystem.iml" filepath="$PROJECT_DIR$/StudentSystem/StudentSystem.iml" />
+    </modules>
+  </component>
+</project>
